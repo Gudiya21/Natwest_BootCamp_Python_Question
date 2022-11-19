@@ -1,0 +1,100 @@
+#bgcolor{
+    background-color: rgb(241, 237, 237);
+}
+
+#mainContainer{
+    height: 592px;
+    background-color: white;
+    width: 450px;
+    border: double;
+    
+}
+
+#image{
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    left:33%;
+    border-radius: 50%;
+    
+}
+
+#dots{
+    height: 42px;
+    width: 42px;
+    position: absolute;
+    bottom: 547px;
+    left: 795px;
+}
+
+#arrow{
+    height: 30px;
+    width: 30px;
+    position: absolute;
+    right: 820px;
+    bottom: 550px;
+}
+
+#posts{
+    line-height: 0.2;
+    position: absolute;
+    bottom: 455px;
+    right: 680px;
+}
+
+#followers{
+    line-height: 0.2;
+    position: absolute;
+    bottom: 455px;
+    right: 590px;
+}
+
+#following{
+    line-height: 0.2;
+    position: absolute;
+    bottom: 455px;
+    right: 490px;
+}
+
+#bio{
+    line-height: 0.2;
+    position: absolute;
+    bottom: 345px;
+    right: 520px;
+    text-align: left;
+}
+
+#edit{
+    position: absolute;
+    bottom: 325px;
+    right: 520px;
+    
+}
+
+#button{
+    height: 20px;
+    width: 330px;
+    
+}
+
+#contact{
+    position: relative;
+    top: 185px;
+    left: 150px;
+}
+
+#nature{
+    height: 120px;
+    width: 120px;
+    position: relative;
+    top: 190px;
+    right: 85px;
+}
+
+#baby{
+    height: 120px;
+    width: 120px;
+    position: relative;
+    top: 190px;
+    right: 70px;
+}
